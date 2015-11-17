@@ -80,4 +80,8 @@ public:
 
 	}
 
+	void actProcesser(void * func) {
+		//asdfasdfasdf
+	}
+
 };
