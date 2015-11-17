@@ -116,6 +116,8 @@ int main(int argc, char **argv)
 		count++;
 	}
 
+	// wwill add processor here
+
 	// wait for robot task loop to end before exiting the program
 	robot.waitForRunExit();
 
